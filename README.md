@@ -6,7 +6,7 @@ These images will require you to download any required Oracle commercial softwar
 
 ### Oracle Commercial Products
  - [Oracle BI](/OracleBI)
- - [Oracle Cloud Infrastructure Tools](/OracleCloudInfrastructure)
+ - [Oracle Cloud Infrastructure Tools](OracleCloudInfrastructure)
  - [Oracle Coherence](/OracleCoherence)
  - [Oracle Database](/OracleDatabase)
  - [Oracle Data Integrator](/OracleDataIntegrator)
